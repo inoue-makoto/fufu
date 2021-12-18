@@ -6,9 +6,9 @@ import Seo from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <Seo title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
+    <Seo title="Navigation" />
+    <h1>改姓後の変更</h1>
+    <p>苗字変えるのがどれだけめんどくさいかを理解すべき</p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
